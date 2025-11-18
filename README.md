@@ -40,3 +40,7 @@ Perfect as a first Node.js project.
 ```bash
 git clone https://github.com/<your-username>/NodeHero.git
 cd NodeHero
+
+### 2. Install dependencies
+```bash
+npm install
