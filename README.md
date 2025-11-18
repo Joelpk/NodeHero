@@ -37,11 +37,22 @@ Perfect as a first Node.js project.
 ## 📦 Installation & Setup  
 
 1. Clone the repository  
-  ```bash
+```bash
 git clone https://github.com/<your-username>/NodeHero.git
 cd NodeHero
+```
 
-
-2. Install dependencies
-  ```bash
+2. Install dependencies  
+```bash
 npm install
+```
+
+3. Run the server  
+```bash
+node index.js
+```
+
+4. Visit in your browser  
+```
+http://localhost:3000
+```
